@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **- Advanced AI frameworks like **LangChain, Hugging Face Transformers, and MLOps tools (Docker, Jenkins, FastAPI)** - Courses in **Generative AI, Reinforcement Learning, and Multi-Agent Systems****
 
-- 💬 Ask me about **- **React.js, Vue.js, GSAP**, and building interactive front-end experiences - **Generative AI, LLM fine-tuning, and Computer Vision****
+- 💬 Ask me about **- **AI, ML ,DL, Generative AI, LLM fine-tuning, and Computer Vision****
 
 - 📫 How to reach me **Email: **dks082001@gmail.com** - LinkedIn: [Divyansh_Kumar_Singh](https://www.linkedin.com/in/divyansh-kumar-singh-4423b1212/)**
 
