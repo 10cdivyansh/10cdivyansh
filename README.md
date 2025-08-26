@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **- **React.js, Vue.js, GSAP**, and building interactive front-end experiences - **Generative AI, LLM fine-tuning, and Computer Vision****
 
-- 📫 How to reach me **Email: **dks082001@gmail.com** - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/divyansh-kumar-singh-4423b1212/)**
+- 📫 How to reach me **Email: **dks082001@gmail.com** - LinkedIn: [Divyansh_Kumar_Singh](https://www.linkedin.com/in/divyansh-kumar-singh-4423b1212/)**
 
 - 📄 Know about my experiences [- [Resume](https:)](- [Resume](https:))
 
