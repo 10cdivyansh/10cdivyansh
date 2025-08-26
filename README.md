@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Email: **dks082001@gmail.com** - LinkedIn: [Divyansh_Kumar_Singh](https://www.linkedin.com/in/divyansh-kumar-singh-4423b1212/)**
 
-- 📄 Know about my experiences [- [Resume](https:)](- [Resume](https:))
+- 📄 Know about my experiences [- [Resume](https://drive.google.com/file/d/1_rvZLyNS14EpsZtjr-19kNGaqmU2qDan/view?usp=sharing)]
 
 - ⚡ Fun fact **- I love mixing **AI + creativity**, whether it’s automating workflows or generating custom digital art styles 🚀**
 
